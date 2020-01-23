@@ -3,4 +3,4 @@ This is a list of companies that have relentlessly emailed me after somehow endi
 
 To import into Outlook, right click on an email, then navigate to Junk -> Junk E-mail Options. Go to the Blocked Senders tab and click on Import from File...
 
-You could unsubscribe from the lists, but those links could lead phishing websites as well. The emails where you respond with "REMOVE" in the subject always seem to conveniently not work. 
+You could unsubscribe from the lists, but those links could lead to phishing websites as well. The emails where you respond with "REMOVE" in the subject always seem to conveniently not work. 
