@@ -1,4 +1,5 @@
 1105data.com
+1105info.com
 1105tech.com
 abakis.com
 acalvio.us
@@ -8,6 +9,7 @@ alertmedia.com
 am.amtechwebresources.com
 appointmentverified.com
 arista.com
+att.com
 awakesecurity.com
 aws-marketing-email-replies@amazon.com
 bafflesec.co
@@ -17,19 +19,23 @@ bitglass.com
 bitsighttech.com
 bluecurvedata.us
 businesswatchnetwork.com
+carbonblack.com
 cheapflightalerts.me
 cobalt.io
 columnit.com
 cyberstrong.us
+dminc.com
 e.travelpointscards.com
 ensilo.com
 eqcourses.com
 espnmail.com
 exabeam.com
+exacttarget.com
 expandeq.com
 forcepoint.com
 fossa.io
 frsecure.com
+gartner.com
 gmail.com
 goverlan.com
 greycompliance.com
