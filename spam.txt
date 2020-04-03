@@ -4,6 +4,7 @@
 abakis.com
 acalvio.us
 aditumpartners.com
+akamai.com
 alcide.io
 alertmedia.com
 am.amtechwebresources.com
@@ -23,6 +24,8 @@ carbonblack.com
 cheapflightalerts.me
 cobalt.io
 columnit.com
+crowdstrike.com
+cybersecurity-insiders.com
 cyberstrong.us
 dminc.com
 e.travelpointscards.com
@@ -34,6 +37,7 @@ exacttarget.com
 expandeq.com
 forcepoint.com
 fossa.io
+foxitpdf.com
 frsecure.com
 gartner.com
 gmail.com
@@ -46,16 +50,15 @@ info.greycompliance.com
 infotech-web-publications.com
 ithubinstantly.com
 juniper.net
-katie@info.greycompliance.com
 lockpath.com
 logpoint.com
 malwarebytes.com
-market@sailpoint.com
 metricstream.com
 microage.com
 news.compliancebrite.com
 offers.indexengines.com
 onelogin.com
+pathsolution.com
 reciprocitylabs.com
 recordedfuture.com
 redseal.net
@@ -63,7 +66,9 @@ responses.att-mail.com
 rsainsidesales.dell.com
 sailpoint.com
 salesforce.com
+sectigo.com
 secureinfosec.com
+securranty.com
 seeburger-news.com
 sennheiser.com
 sentinelone.com
@@ -78,8 +83,10 @@ sophos.com
 spirion.com
 talentlogic.net
 tangiblesec.com
+teamlogicitdm.com
 techtalksummits.com
 tevora.com
+thelearnsql.com
 threatmodeler.com
 thycotic.com
 tricension.com
